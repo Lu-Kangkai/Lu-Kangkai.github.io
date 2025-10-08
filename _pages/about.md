@@ -1,4 +1,3 @@
-#excerpt: "About me"
 ---
 permalink: /
 title: "About me"
