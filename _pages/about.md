@@ -1,20 +1,19 @@
----
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile:true
-redirect_from: 
-  - /about/
-  - /abouthtml
----
 #---
 #permalink: /
-#title: "About"
-#author_profile: true
+#title: "About me"
+#excerpt: "About me"
+#author_profile:true
 #redirect_from: 
-#  - "/wordpress/"
-#  - "/wordpress/index.html"
-#---
+#  - /about/
+#  - /abouth.tml
+---
+permalink: /
+title: "About"
+author_profile: true
+redirect_from: 
+  - "/about/"
+  - "/about.html"
+---
 
 
 As a sophomore at Zhoukou Normal University, Lu Kangkai has achieved outstanding performance in competitions, practical activities and academic studies, with strong comprehensive abilities.
